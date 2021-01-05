@@ -1,0 +1,3 @@
+
+１．リリース
+pyinstaller --noconsole --onefile syohoushen.py
