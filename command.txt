@@ -1,3 +1,6 @@
 
-１．リリース
+１．syohoushen　リリース
 pyinstaller --noconsole --onefile syohoushen.py
+
+２．syohoushenWeb　リリース
+pyinstaller --noconsole --onefile --uac-admin syohoushenWeb.py
